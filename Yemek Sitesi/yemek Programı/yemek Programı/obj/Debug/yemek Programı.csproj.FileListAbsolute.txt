@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\Yemek Sitesi\yemek Programı\yemek Programı\bin\Debug\yemek Programı.exe.config
+C:\Users\asus\Desktop\Yemek Sitesi\yemek Programı\yemek Programı\bin\Debug\yemek Programı.exe
+C:\Users\asus\Desktop\Yemek Sitesi\yemek Programı\yemek Programı\bin\Debug\yemek Programı.pdb
+C:\Users\asus\Desktop\Yemek Sitesi\yemek Programı\yemek Programı\obj\Debug\yemek Programı.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Yemek Sitesi\yemek Programı\yemek Programı\obj\Debug\yemek Programı.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Desktop\Yemek Sitesi\yemek Programı\yemek Programı\obj\Debug\yemek_Programı.Form1.resources
+C:\Users\asus\Desktop\Yemek Sitesi\yemek Programı\yemek Programı\obj\Debug\yemek_Programı.Form2.resources
+C:\Users\asus\Desktop\Yemek Sitesi\yemek Programı\yemek Programı\obj\Debug\yemek_Programı.Form3.resources
+C:\Users\asus\Desktop\Yemek Sitesi\yemek Programı\yemek Programı\obj\Debug\yemek_Programı.Properties.Resources.resources
+C:\Users\asus\Desktop\Yemek Sitesi\yemek Programı\yemek Programı\obj\Debug\yemek Programı.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Yemek Sitesi\yemek Programı\yemek Programı\obj\Debug\yemek Programı.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Yemek Sitesi\yemek Programı\yemek Programı\obj\Debug\yemek Programı.exe
+C:\Users\asus\Desktop\Yemek Sitesi\yemek Programı\yemek Programı\obj\Debug\yemek Programı.pdb
+C:\Users\asus\Desktop\Yemek Sitesi\yemek Programı\yemek Programı\obj\Debug\yemek_Programı.Form4.resources
